@@ -1,0 +1,18 @@
+{
+	"compilerOptions": {
+		"target": "ESNext",
+		"lib": ["DOM", "ESNext", "ESNext.Array"],
+		"module": "ES6",
+		"outDir": "./dist",
+		"strictPropertyInitialization": false,
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"strict": true,
+		"noImplicitAny": false,
+		"watch": true,
+		"noImplicitThis": false,
+		"alwaysStrict": true,
+		"skipLibCheck": true,
+		"emitDecoratorMetadata": false
+	}
+}
