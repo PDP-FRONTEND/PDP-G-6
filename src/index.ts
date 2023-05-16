@@ -166,15 +166,15 @@
 // 	}
 // }
 
-var a = 20;
+// var a = 20;
 
-function log() {
-	if (a) console.log(a);
+// function log() {
+// 	if (a) console.log(a);
 
-	if (a > 10) console.log("a katta 10 dan");
+// 	if (a > 10) console.log("a katta 10 dan");
 
-	var a = 40;
-	console.log(a);
-}
+// 	var a = 40;
+// 	console.log(a);
+// }
 
-log();
+// log();
