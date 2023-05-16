@@ -4,8 +4,8 @@
 
 # JS OOP
 
-    ✅ Object
-    ✅ this keyword
+    ✅ Object 👍🏻
+    ✅ this keyword 👍🏻
     ✅ call && bind && apply function methods
     ✅ Factory function
     ✅ Constructor function
@@ -27,5 +27,5 @@
     ✅ instanceof
     ✅ Class
     ✅ Constructor
-    ✅ Real Project(PayMe | Parking | Shop | Telegram)
+    ✅ Real Project(PayMe | Shop | Telegram)
     ✅ Inheritance
