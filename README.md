@@ -6,7 +6,8 @@
 
     ✅ Object 👍🏻
     ✅ this keyword 👍🏻
-    ✅ call && bind && apply function methods
+    ✅ call && bind && apply function methods 👍🏻
+    ✅ Spread operator and Rest parameters 👍🏻
     ✅ Factory function
     ✅ Constructor function
     ✅ new keyword
