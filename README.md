@@ -1,4 +1,4 @@
-# ---------- 13.05.23 ----------(104)
+# ---------- 21.05.23 ----------(107)
 
 ## tsconfig
 
@@ -8,9 +8,9 @@
     ✅ this keyword 👍🏻
     ✅ call && bind && apply function methods 👍🏻
     ✅ Spread operator and Rest parameters 👍🏻
-    ✅ Factory function
-    ✅ Constructor function
-    ✅ new keyword
+    ✅ Factory function 👍🏻
+    ✅ Constructor function 👍🏻
+    ✅ new keyword 👍🏻
     ✅ Abstraction
     ✅ Private Properties and Methods
     ✅ Getters and Setters

@@ -73,10 +73,10 @@
 
 // const run1 = person.run.bind(person1);
 
-const person = {
-	name: "arslonbek",
-	age: 20,
-};
+// const person = {
+// 	name: "arslonbek",
+// 	age: 20,
+// };
 
 // const person1 = Object.assign({}, person);
 // const person1 = { ...person };
@@ -86,7 +86,7 @@ const person = {
 // console.log(person);
 // console.log(person1);
 
-const nums = [1, 2, 3];
+// const nums = [1, 2, 3];
 
 // const nums1 = [...nums];
 // nums1[0] = 20;
@@ -106,45 +106,43 @@ const nums = [1, 2, 3];
 
 // app(...nums);
 
-function run() {
-	console.log(`${this.name} is running...`);
-}
+// function run() {
+// 	console.log(`${this.name} is running...`);
+// }
 
-function sakra() {
-	console.log(`${this.name} sakramoqda...`);
-}
+// function sakra() {
+// 	console.log(`${this.name} sakramoqda...`);
+// }
 
-type Name = "Arslonbek" | "Boburbek" | "Erkinbek" | "Siroj";
+// type Name = "Arslonbek" | "Boburbek" | "Erkinbek" | "Siroj";
 
 /*-----Factory function-----*/
-function createFriend(name: Name, age: number) {
-	return {
-		name,
-		age,
-	};
-}
+// function createFriend(name: Name, age: number) {
+// 	return {
+// 		name,
+// 		age,
+// 	};
+// }
 
-const factoryFriend = createFriend("Erkinbek", 20);
+// const factoryFriend = createFriend("Erkinbek", 20);
 
-console.log(factoryFriend);
-/* Constructor Function */
-function Friend(name: Name, age: number) {
-	this.name = name;
-	this.age = age;
-}
+// console.log(factoryFriend);
+// /* Constructor Function */
+// function Friend(name: Name, age: number) {
+// 	this.name = name;
+// 	this.age = age;
+// }
 
-Friend.prototype.run = function () {
-	console.log(`${this.name} is running...`);
-};
-Friend.prototype.jump = function () {
-	console.log(`${this.name} is jumping...`);
-};
+// Friend.prototype.run = function () {
+// 	console.log(`${this.name} is running...`);
+// };
+// Friend.prototype.jump = function () {
+// 	console.log(`${this.name} is jumping...`);
+// };
 
-const friend1 = new Friend("Arslonbek", 22);
-const friend2 = new Friend("Boburbek", 32);
-friend1.jump();
-friend2.run();
-console.log(friend1);
-console.log(friend2);
-
-
+// const friend1 = new Friend("Arslonbek", 22);
+// const friend2 = new Friend("Boburbek", 32);
+// friend1.jump();
+// friend2.run();
+// console.log(friend1);
+// console.log(friend2);
